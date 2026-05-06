@@ -1,4 +1,4 @@
-<img width="438" height="343" alt="image" src="https://github.com/user-attachments/assets/c88da24a-91e2-4cc0-a487-ad449ba2cec0" /># Solenoid-Driver-PCB
+# Solenoid-Driver-PCB
 
 This project is a component of a piano-playing robot. The solenoid driver drives 6 solenoid actuators, which press the piano keys. 
 
